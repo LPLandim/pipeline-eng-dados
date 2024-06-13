@@ -10,7 +10,7 @@ Tudo feito e configurado num ambiente virtual do Python utilizando o WSL (Window
 
 ## Arquitetura do Projeto
 
-![Arquitetura do Projeto](images/pipeline-projeto.png)
+![Arquitetura do Projeto](pipeline-projeto.png)
 
 A arquitetura do projeto é composta pelos seguintes componentes:
 
